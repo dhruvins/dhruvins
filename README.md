@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making WooCommerce extensions to simplify the problems faced by store owners. Refer [Tyche Softwares](https://tychesoftwares.com) and [Imaginate Solutions](https://imaginate-solutions.com) for more info.
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on making WooCommerce extensions to simplify the problems faced by store owners. Refer [Imaginate Solutions](https://imaginate-solutions.com) for more info.
+<!-- - 🌱 I’m currently learning React -->
 - 👯 I’m looking to collaborate on WooCommerce Core and WordPress Core
 - 💬 Ask me about how to increase your WooCommerce Store Sales or anything in particular about WooCommerce
 - 📫 How to reach me: DM me on [Twitter](https://twitter.com/DhruvinShah8)
